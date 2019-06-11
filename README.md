@@ -1,2 +1,2 @@
-# df_bch_g4_scribe_notes
+# bchg4_scribenotes
 Scribes Notes del curso Becas Capital Humano Desafío Latam
